@@ -1,5 +1,23 @@
 {
     "go": {
-        "aliases":{}
+        "aliases": {
+            "back": ".."
+        }
+    },
+    "listdir": {
+        "aliases": {
+            ".py": "python",
+            ".json": "json",
+            ".js": "javascript",
+            ".c": "c",
+            ".cxx": "c++",
+            ".cpp": "c++",
+            ".h": "c header",
+            ".hpp": "c++ header",
+            ".hxx": "c++ header",
+            ".cs": "c#",
+            ".java": "java",
+            ".class": "java class"
+        }
     }
 }
